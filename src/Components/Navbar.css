@@ -20,6 +20,7 @@
 
 .navbar--title > h1 {
     margin: 2px 0px;
+    color: #FFF;
 }
 
 .navbar--links {
@@ -28,10 +29,12 @@
     justify-content: center;
     align-items: center;
     margin: 20px;
+    height: 30px;
 }
 
 .navbar--link {
     padding: 10px;
+    margin-right: 20px; 
 }
 
 a {
